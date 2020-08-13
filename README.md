@@ -1,6 +1,6 @@
 # RosaAnalysis
 
-npminstall 
+npm install 
 
 cd android && ./gradlew clean && cd..
 
